@@ -1,5 +1,5 @@
 
-const fillerPosts : post[] = [
+const fillerPosts : Post[] = [
   
   {
     user: {
